@@ -1,43 +1,30 @@
-<div align="center">
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
     <a href="https://github.com/roflcoopter/viseron">
-        <img width="150" height="150" src="docs/static/img/viseron-logo.svg">
+        <img width="150" height="150" src="/roflcoopter/viseron/raw/dev/docs/static/img/viseron-logo.svg" style="max-width: 100%;">
     </a>
     <br>
-    <h1>Viseron</h1>
-    <p>
-        Self-hosted, local only NVR and AI Computer Vision software.
-    </p>
-    <p>
-        With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor.
-    </p>
-    <h1></h1>
+    <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="9818666" _msthash="335">维塞隆</h1><a id="user-content-viseron" class="anchor" aria-label="永久链接： Viseron" href="#viseron" _mstaria-label="340704" _msthash="336"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+    <p dir="auto" _msttexthash="115903905" _msthash="337">自托管、仅限本地的 NVR 和 AI 计算机视觉软件。</p>
+    <p dir="auto" _msttexthash="507502580" _msthash="338">借助对象检测、运动检测、人脸识别等功能，它使您能够密切关注您的家、办公室或您想要监控的任何其他地方。</p>
+    <h1 dir="auto"></h1>
     <br>
 </div>
-
-# Getting started
-
-Getting started is easy! You simply spin up a Docker container and edit the configuration file using the built in web interface.
-
-Head over to the [documentation](https://viseron.netlify.app) and follow the instructions on how to get started.
-
-# Components
-
-Viserons functionality is enabled by [components](https://viseron.netlify.app/docs/documentation/configuration#components).
-
-You can find all the available components by using the [Component Explorer](https://viseron.netlify.app/components-explorer/).
-
-# Contributing
-
-Contributors to the project are very much appreciated.
-See the [contribution guidelines](https://viseron.netlify.app/docs/contributing) on how to get started.
-
-Some things you can help with:
-
-- Implement an open feature request or issue from the [issue tracker](https://github.com/roflcoopter/viseron/issues)
-- Improve the documentation
-- Answer questions in issues or [discussions](https://github.com/roflcoopter/viseron/discussions)
-
-You can also use the links below to sponsor Viseron or make a one time donation.
-
-<a href="https://github.com/sponsors/roflcoopter" target="_blank"><img src="docs/static/img/sponsor_button.png" alt="Sponsor" style="height: 37px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5)" ></a>
-<a href="https://www.buymeacoffee.com/roflcoopter" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4603768" _msthash="339">开始</h1><a id="user-content-getting-started" class="anchor" aria-label="永久链接： 开始使用" href="#getting-started" _mstaria-label="601445" _msthash="340"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="294434816" _msthash="341">入门非常简单！您只需启动一个 Docker 容器并使用内置的 Web 界面编辑配置文件。</p>
+<p dir="auto" _msttexthash="119390050" _msthash="342">前往<a href="https://viseron.netlify.app" rel="nofollow" _istranslated="1">文档</a>并按照有关如何开始的说明进行操作。</p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5055388" _msthash="343">组件</h1><a id="user-content-components" class="anchor" aria-label="永久链接： Components" href="#components" _mstaria-label="446381" _msthash="344"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="47634145" _msthash="345">Viserons 功能由<a href="https://viseron.netlify.app/docs/documentation/configuration#components" rel="nofollow" _istranslated="1">组件</a>启用。</p>
+<p dir="auto" _msttexthash="120336216" _msthash="346">您可以使用 <a href="https://viseron.netlify.app/components-explorer/" rel="nofollow" _istranslated="1">Component Explorer</a> 找到所有可用的组件。</p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6354283" _msthash="347">贡献</h1><a id="user-content-contributing" class="anchor" aria-label="永久链接： 贡献" href="#contributing" _mstaria-label="521066" _msthash="348"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="188036277" _msthash="349">非常感谢该项目的贡献者。
+请参阅<a href="https://viseron.netlify.app/docs/contributing" rel="nofollow" _istranslated="1">有关如何开始的贡献指南</a>。</p>
+<p dir="auto" _msttexthash="60395062" _msthash="350">您可以提供帮助的一些事情：</p>
+<ul dir="auto">
+<li _msttexthash="100581442" _msthash="351">从<a href="https://github.com/roflcoopter/viseron/issues" _istranslated="1">问题跟踪器</a>实施开放功能请求或问题</li>
+<li _msttexthash="12703028" _msthash="352">改进文档</li>
+<li _msttexthash="54752217" _msthash="353">在问题或<a href="https://github.com/roflcoopter/viseron/discussions" _istranslated="1">讨论</a>中回答问题</li>
+</ul>
+<p dir="auto" _msttexthash="157850225" _msthash="354">您也可以使用下面的链接赞助 Viseron 或进行一次性捐赠。</p>
+<p dir="auto"><a href="https://github.com/sponsors/roflcoopter"><img src="/roflcoopter/viseron/raw/dev/docs/static/img/sponsor_button.png" alt="发起人" style="height: 37px; width: 170px; max-width: 100%;" _mstalt="99515" _msthash="355"></a>
+<a href="https://www.buymeacoffee.com/roflcoopter" rel="nofollow"><img src="https://camo.githubusercontent.com/0b448aabee402aaf7b3b256ae471e7dc66bcf174fad7d6bb52b27138b2364e47/68747470733a2f2f7777772e6275796d6561636f666665652e636f6d2f6173736574732f696d672f637573746f6d5f696d616765732f6f72616e67655f696d672e706e67" alt="请给我买杯咖啡" style="height: 41px; width: 174px; max-width: 100%;" data-canonical-src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" _mstalt="185510" _msthash="356"></a></p>
+</article></div>
